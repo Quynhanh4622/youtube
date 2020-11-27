@@ -30,6 +30,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
