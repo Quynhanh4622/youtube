@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53805ead-f2a1-4051-82d0-38757dd8ca59" name="Default Changelist" comment="youtube" />
+    <list default="true" id="53805ead-f2a1-4051-82d0-38757dd8ca59" name="Default Changelist" comment="youtube">
+      <change afterPath="$PROJECT_DIR$/CSS/baitap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/abc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/YOUTUBE.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/YOUTUBE.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/youtube.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +36,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -46,9 +55,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/baitapngay13/baitapngay13" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\WebstormProjects\youtube\img" />
+      <recent name="C:\Users\acer\WebstormProjects\youtube\JS" />
+      <recent name="C:\Users\acer\WebstormProjects\youtube" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +76,11 @@
       <option name="presentableId" value="Default" />
       <updated>1606441739848</updated>
       <workItem from="1606441740979" duration="6941000" />
-      <workItem from="1606448876053" duration="330000" />
+      <workItem from="1606448876053" duration="4889000" />
+      <workItem from="1606527522328" duration="5372000" />
+      <workItem from="1606699289396" duration="10429000" />
+      <workItem from="1607310178294" duration="12422000" />
+      <workItem from="1607327777251" duration="1814000" />
     </task>
     <task id="LOCAL-00001" summary="youtube">
       <created>1606448933335</created>
@@ -68,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606448933335</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="youtube">
+      <created>1606449341358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606449341358</updated>
+    </task>
+    <task id="LOCAL-00003" summary="youtube">
+      <created>1606449476351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606449476351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,19 +119,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="youtube" />
     <option name="LAST_COMMIT_MESSAGE" value="youtube" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606448942084">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607310558401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606448942084" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607310558401" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606709466582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606709466582" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606449478855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606449478855" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1606445248459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606445248459" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1607312541232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607312541232" />
   </component>
 </project>
