@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53805ead-f2a1-4051-82d0-38757dd8ca59" name="Default Changelist" comment="baitap">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/baitap.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/baitap.css" afterDir="false" />
-    </list>
+    <list default="true" id="53805ead-f2a1-4051-82d0-38757dd8ca59" name="Default Changelist" comment="baitap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +73,7 @@
       <workItem from="1606699289396" duration="10429000" />
       <workItem from="1607310178294" duration="12422000" />
       <workItem from="1607327777251" duration="2698000" />
-      <workItem from="1607342445168" duration="308000" />
+      <workItem from="1607342445168" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="youtube">
       <created>1606448933335</created>
@@ -113,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607329872395</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="baitap">
+      <created>1607342779976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607342779976</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,10 +149,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606709466582" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1607329884015">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1607342783399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607329884015" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607342783399" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1606445248459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
