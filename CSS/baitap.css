@@ -246,6 +246,7 @@ ul{
         left: 0;
         background: #333;
         width: 100px;
+        overflow: hidden;
         transition: max-height 0.5s;
     }
     nav ul li{

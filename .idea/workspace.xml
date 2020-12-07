@@ -19,14 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53805ead-f2a1-4051-82d0-38757dd8ca59" name="Default Changelist" comment="youtube">
-      <change afterPath="$PROJECT_DIR$/CSS/baitap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/abc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap.html" afterDir="false" />
+    <list default="true" id="53805ead-f2a1-4051-82d0-38757dd8ca59" name="Default Changelist" comment="baitap">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/YOUTUBE.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/YOUTUBE.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/youtube.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/baitap.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/baitap.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +75,8 @@
       <workItem from="1606527522328" duration="5372000" />
       <workItem from="1606699289396" duration="10429000" />
       <workItem from="1607310178294" duration="12422000" />
-      <workItem from="1607327777251" duration="1814000" />
+      <workItem from="1607327777251" duration="2698000" />
+      <workItem from="1607342445168" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="youtube">
       <created>1606448933335</created>
@@ -103,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606449476351</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="baitap">
+      <created>1607329775569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607329775569</updated>
+    </task>
+    <task id="LOCAL-00005" summary="baitap">
+      <created>1607329872395</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607329872395</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +133,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="youtube" />
-    <option name="LAST_COMMIT_MESSAGE" value="youtube" />
+    <MESSAGE value="baitap" />
+    <option name="LAST_COMMIT_MESSAGE" value="baitap" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607310558401">
@@ -134,10 +145,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606709466582" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606449478855">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1607329884015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606449478855" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607329884015" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1606445248459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
